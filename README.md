@@ -1,2 +1,1 @@
-# lbqpythonstudy
-初次使用GitHub，开始学习。
+#初次使用GitHub，开始学习。
